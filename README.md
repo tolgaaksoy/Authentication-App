@@ -1,4 +1,4 @@
-# SpringBootJWTReactApplication
+# Authentication Application.
 This application is an example of an authentication application developed with Spring Boot and React.js. Backend is developed with Spring Boot, Spring Security, Spring Data and JWT. While developing Frontend, React, React Router and Axios were used. Also, Bootstrap was used during the development process.
 
 ### Using Tools & Technologies
@@ -35,7 +35,7 @@ ___
 Some screenshots from the application.
 * Signup page:
 
-*http://localhost:8081/signup*
+*/signup*
 
 ![alt text](https://user-images.githubusercontent.com/24254922/96254968-d532a100-0fbe-11eb-87a5-0f1eb745dc71.png)
 
@@ -51,7 +51,7 @@ ___
 
 * Login Page:
 
-*http://localhost:8081/login*
+*/login*
 
 ![alt text](https://user-images.githubusercontent.com/24254922/96254958-d368dd80-0fbe-11eb-9989-370ef166a8f1.png)
 ___
@@ -64,7 +64,7 @@ ___
 
 * Profile Page (successful login):
 
-*http://localhost:8081/profile*
+*/profile*
 
 ![alt text](https://user-images.githubusercontent.com/24254922/96254971-d532a100-0fbe-11eb-8275-56defde8439d.png)
 ___
@@ -74,42 +74,42 @@ Navigation bar changes according to the authorizations.
 
 * Public Content Page:
 
-*http://localhost:8081/home*
+*/home*
 
 ![alt text](https://user-images.githubusercontent.com/24254922/96254962-d4017400-0fbe-11eb-93a7-4b249d291002.png)
 ___
 
 * User Content Page:
 
-*http://localhost:8081/user*
+*/user*
 
 ![alt text](https://user-images.githubusercontent.com/24254922/96254972-d5cb3780-0fbe-11eb-9e62-949a30fac9f3.png)
 ___
 
 * Error Page(Unauthorized)
 
-*http://localhost:8081/mod*
+*/mod*
 
 ![alt text](https://user-images.githubusercontent.com/24254922/96283146-6ff1a680-0fe4-11eb-8e43-6cbc438ed8d3.png)
 ___
 
 * Profile Page (successful login):
 
-*http://localhost:8081/profile*
+*/profile*
 
 ![alt text](https://user-images.githubusercontent.com/24254922/96254957-d2d04700-0fbe-11eb-86d7-18f035a5570d.png)
 ___
 
 * Admin Page:
 
-*http://localhost:8081/admin*
+*/admin*
 
 ![alt text](https://user-images.githubusercontent.com/24254922/96283144-6ff1a680-0fe4-11eb-9a2b-028e632fd75d.png)
 ___
 
 * Moderator Page:
 
-*http://localhost:8081/mod*
+*/mod*
 
 ![alt text](https://user-images.githubusercontent.com/24254922/96283142-6ec07980-0fe4-11eb-9347-e518baa8a3cf.png)
 
